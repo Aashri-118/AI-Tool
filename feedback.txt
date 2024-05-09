@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+Feedback: very Good!!
+Email: adityavarshney20@gnu.ac.in
+
+Feedback: Superb!!
+Email: adityasv276@gmail.com
+
+Feedback: Brilliant!!
+Email: adityasv276@gmail.com
+
+Feedback: Brilliant!
+Email: tirthbpatel20@gnu.ac.in
+
+=======
+Feedback: very Good!!
+Email: adityavarshney20@gnu.ac.in
+
+>>>>>>> 6621396420f49a39bc883d5c11ad0986228186eb
